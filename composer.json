@@ -1,0 +1,21 @@
+{
+  "name": "liyifei/yii2-baidu-face",
+  "description": "baidu ai for yii2",
+  "keywords": ["yii2", "extension", "baidu", "ai"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "李奕飞",
+      "email": "119422342@qq.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "yiisoft/yii2-httpclient": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "liyifei\\baiduface\\": "src"
+    }
+  }
+}
